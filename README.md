@@ -2,7 +2,7 @@
 
 # uihub_facebook_home
 
-[//]: # ([![YouTube Video Title]&#40;https://img.youtube.com/vi/[video-id]/0.jpg&#41;]&#40;https://www.youtube.com/shorts/[video-id]&#41;)
+[![YouTube Video Title](https://img.youtube.com/vi/sxv0I7kw_ro/0.jpg)](https://www.youtube.com/shorts/sxv0I7kw_ro)
 
 
 
